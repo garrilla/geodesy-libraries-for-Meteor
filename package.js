@@ -2,7 +2,7 @@ Package.describe({
   name: 'garrilla:geodesy-libraries',
   summary: ' /* A Meteor wrapper for https://github.com/chrisveness/geodesy */ ',
   version: '0.0.1',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/garrilla/geodesy-libraries-for-Meteor'
 });
 
 /*
