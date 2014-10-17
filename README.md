@@ -8,7 +8,7 @@ though they can also be used as-is.
 Wrapped for Meteor
 ------
 
-    Meteor add garrilla:geodesy-libraies
+    Meteor add garrilla:geodesy-libraries
 
 This version is package for Meteor JS. It's provided as is. Only Changes from the original (vers 0.0.0)
 available at [chrisvennes/geodesy](https://github.com/chrisveness/geodesy) are
